@@ -1,0 +1,31 @@
+{
+  "Blog": [
+    {
+      "Title": "Monday Morning",
+      "Content": "Energy rejunevated",
+      "Author": "Viaksh",
+      "id": 1
+    },
+    {
+      "Title": "TuesDay AfterNoon",
+      "Content": "Delighted",
+      "Author": "Aayush",
+      "id": 2
+    },
+    {
+      "Title": "Wednesday Evening",
+      "Content": "Evening Walk",
+      "Author": "Vikash",
+      "id": 3
+    },
+    {
+      "Title": "Evening Walk",
+      "Author": "vikash",
+      "Content": "Good Day ",
+      "id": 4
+    }
+  ],
+  "About": {
+    "Content": "Welcome To Our About Section"
+  }
+}
